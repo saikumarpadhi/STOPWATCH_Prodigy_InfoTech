@@ -1,7 +1,7 @@
 # STOPWATCH_Prodigy_InfoTech
  A stopwatch built with Html, Css and JavaScript 
 
- <img src="https://res.cloudinary.com/dru8wdzr8/image/upload/v1710771994/Red_and_Black_SportivePlayer_of_The_Week_Youtube_Thumbnail_uurro8.png"/>
+<img src="https://res.cloudinary.com/dru8wdzr8/image/upload/v1710854626/Red_and_Black_SportivePlayer_of_The_Week_Youtube_Thumbnail_1_kgcvfn.png"/>
 <h1>Task Details:-
 
 HTML:</h1>
